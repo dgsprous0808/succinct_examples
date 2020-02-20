@@ -8,7 +8,7 @@ Pythonic based examples for DB connections, pandas/scikit-learn ..., pyspark ope
                             — Piet Hein
                             
 # Purpose:
-This is a cook-book of operations in small jupyter notebooks.  Notebook names are noteably unimaginative and specific for the operation being highlighted.  
+This is a cook-book of operations in small jupyter notebooks.  Notebook names are specific for the operation being highlighted.  These are unrealistically simplified.  Idea is to provide cut, paste and adapt examples of simple operations.    
 
 ## ConnectionsExamples
 Connecting Python and PySpark to Oracle, Snowflake and AWS S3.
