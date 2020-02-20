@@ -9,3 +9,15 @@ Pythonic based examples for DB connections, pandas/scikit-learn ..., pyspark ope
                             
 # Purpose:
 This is a cook-book of operations in small jupyter notebooks.  Notebook names are noteably unimaginative and specific for the operation being highlighted.  
+
+## ConnectionsExamples
+Connecting Python and PySpark to Oracle, Snowflake and AWS S3.
+
+## PySpark_DataFrames
+Barebones examples of PySpark DF examples.
+
+## PySpark_MLLIB
+MLLIB kmeans, linear regression, logistic regression and decision tree.
+
+## TensorFlow
+A classifier and DNNRegressor.
