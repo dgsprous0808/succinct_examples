@@ -21,3 +21,9 @@ MLLIB kmeans, linear regression, logistic regression and decision tree.
 
 ## TensorFlow
 A classifier and DNNRegressor.
+
+## data_common
+Central point for data which is reused for different recipes (example, clustering in Python and PySpark)
+
+## Python_Clustering
+examples of kmeans, dbscan and optics for clustering from scikit-learn in 2D
